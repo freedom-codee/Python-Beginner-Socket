@@ -1,7 +1,8 @@
+__author__: @freedom-codee
 import socket
 
 
-host = '192.168.43.23'
+host = 'YOUR HOST'
 port = 5000
 
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
